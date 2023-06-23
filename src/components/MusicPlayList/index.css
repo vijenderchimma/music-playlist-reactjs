@@ -1,0 +1,39 @@
+.name {
+  color: #ffffff;
+}
+.genre {
+  color: #3b82f6;
+}
+.duration {
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.image {
+  width: 100px;
+  margin-right: 20px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name-container {
+  display: flex;
+  align-items: center;
+}
+
+.delete-container {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.delete-btn {
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+}
